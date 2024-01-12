@@ -1,1 +1,4 @@
-
+Creating Servlet application in Eclipse
+1.Download Eclipse and Tomcat Zip file
+2.set runtime environment of Tomcat in Eclipse
+3.add the server
